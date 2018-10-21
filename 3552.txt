@@ -1,34 +1,372 @@
-The Project Gutenberg EBook of Memoirs of Napoleon Bonaparte, v2, by
-Louis Antoine Fauvelet de Bourrienne
+The Project Gutenberg Etext of the Memoirs of Napoleon, V2, 1798
+NB#02 in our Napoleon series, by Louis Antoine Fauvelet de Bourrienne
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
 
 
-Title: Memoirs of Napoleon Bonaparte, v2
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+As of 12/12/00 contributions are only being solicited from people in:
+Colorado, Connecticut, Idaho, Indiana, Iowa,
+Kentucky, Louisiana, Massachusetts, Montana,
+Nevada, Oklahoma, South Carolina, South Dakota,
+Texas, Vermont, and Wyoming.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states.  Please feel
+free to ask to check the status of your state.
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+These donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+Title: Memoirs of Napoleon Bonaparte, V2
 
 Author: Louis Antoine Fauvelet de Bourrienne
 
-Posting Date: August 18, 2011 [EBook #3552]
-Release Date: December, 2002
+Release Date: December, 2002  [Etext #3552]
+[Yes, we are about one year ahead of schedule]
 [The actual date this file first posted = 04/20/01]
+
+Edition: 10
 
 Language: English
 
-Character set encoding: ASCII
+The Project Gutenberg Etext of Memoirs of Napoleon, V2, 1798
+*****This file should be named 3552.txt or 3552.zip****
 
-*** START OF THIS PROJECT GUTENBERG EBOOK MEMOIRS OF NAPOLEON BONAPARTE, V2 ***
+This etext was produced by David Widger
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext02
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext02
+
+Or /etext01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+Presently, contributions are only being solicited from people in:
+Colorado, Connecticut, Idaho, Indiana, Iowa,
+Kentucky, Louisiana, Massachusetts, Montana,
+Nevada, Oklahoma, South Carolina, South Dakota,
+Texas, Vermont, and Wyoming.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states.
+
+These donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+Project Gutenberg Literary Archive Foundation,
+EIN [Employee Identification Number] 64-6221541,
+has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS).  Donations are tax-deductible to the extent
+permitted by law.  As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+All donations should be made to the Project Gutenberg Literary
+Archive Foundation.  Mail to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Avenue
+Oxford, MS 38655-4109  [USA]
+
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.12.12.00*END*
 
 
 
 
-Produced by David Widger
 
-
-
-
+This etext was produced by David Widger
 
 
 
@@ -36,7 +374,7 @@ Produced by David Widger
 
 MEMOIRS OF NAPOLEON BONAPARTE, VOLUME 2.
 
-By LOUIS ANTOINE FAUVELET DE BOURRIENNE
+by LOUIS ANTOINE FAUVELET DE BOURRIENNE
 
 His Private Secretary
 
@@ -44,6 +382,7 @@ Edited by R. W. Phipps
 Colonel, Late Royal Artillery
 
 1891
+
 
 
 
@@ -60,7 +399,7 @@ CHAPTER V
      Signature of the preliminaries of peace--Fall of Venice--My arrival
      and reception at Leoben--Bonaparte wishes to pursue his success--
      The Directory opposes him--He wishes to advance on Vienna--Movement
-     of the army of the Sambre-et-Meuse--Bonaparte's dissatisfaction--
+     of the army of the Sombre-et-Mouse--Bonaparte's dissatisfaction--
      Arrival at Milan--We take up our residence at Montebello--Napoleon's
      judgment respecting Dandolo and Melzi.
 
@@ -87,9 +426,9 @@ alone he made me understand that he was pleased with my reserve, and
 thanked me for it.  I was immediately placed at the head of his Cabinet.
 I spoke to him the same evening respecting the insurrection of the
 Venetian territories, of the dangers which menaced the French, and of
-those which I had escaped, etc.  "Care thou[*] nothing about it," said he;
+those which I had escaped, etc.  "Care thou' nothing about it," said he;
 
-     [*]--[He used to 'tutoyer' me in this familiar manner until his return
+     --[He used to 'tutoyer' me in this familiar manner until his return
      to Milan.]--
 
 "those rascals shall pay for it.  Their republic has had its day, and is
@@ -185,7 +524,7 @@ General-in-Chief had nothing to do with the Venetian insurrections; that
 subsequently he was not displeased with them; and that, later still, he
 derived great advantage from them.
 
-We arrived at Milan on the 5th of May, by way of Laybach, Triest, Palma-
+We arrived at Milan on the 5th of May, by way of Lawbook, Thrust, Palma-
 Nova, Padua, Verona, and Mantua.  Bonaparte soon took up his residence at
 Montebello, a very fine chateau, three leagues from Milan, with a view
 over the rich and magnificent plains of Lombard.  At Montebello commenced
@@ -194,7 +533,7 @@ Passeriano.  The Marquis de Gallo, the Austrian plenipotentiary, resided
 half a league from Montebello.
 
 During his residence at Montebello the General-in-Chief made an excursion
-to the Lake of Como and to the Lago Maggiore.  He visited the Borromean
+to the Lake of Como and to the Ago Maguire.  He visited the Borromean
 Islands in succession, and occupied himself on his return with the
 organization of the towns of Venice, Genoa, and Milan.  He sought for men
 and found none.  "Good God," said he, "how rare men are!  There are
@@ -212,12 +551,12 @@ Seals of the Italian monarchy, and was created Duke of Lodi.
 
      --[Francesco, Comte de Melzi d'Eryl (1753-1816), vice President of
      the Italian Republic, 1802; Chancellor of the Kingdom of Italy,
-     1805; Duc de Lodi, 1807.]--
+     1805; Duc de Loth, 1807.]--
 
 In those who have seen the world the truth of Napoleon's reproach excites
 little astonishment.  In a country which, according to biographies and
 newspapers, abounds with extraordinary men, a woman of much talent
---(Madame Roland.)--said, "What has most surprised me, since the elevation
+-(Madame Roland.)- said, "What has most surprised me, since the elevation
 of my husband has afforded me the opportunity of knowing many persons,
 and particularly those employed in important affairs, is the universal
 mediocrity which exists.  It surpasses all that the imagination can
@@ -302,7 +641,7 @@ ulterior views.
 The following excerpts, attributed to the pens of Dumouriez or Rivarol,
 are specimens of some of the comments of the time:
 
-     EXTRACTS OF LETTERS IN "LE SPECTATUER DU NORD" of 1797.
+     EXTRACTS OF LETTERS IN "LE SPECTATUER DU NORD of 1797.
 
      General Bonaparte is, without contradiction, the most brilliant
      warrior who has appeared at the head of the armies of the French
@@ -313,7 +652,7 @@ are specimens of some of the comments of the time:
 
      ........Whatever may be the crowning event of his military career,
      Bonaparte is still a great man.  All his glory is due to himself
-     alone; because he alone has developed a character and a genius of
+     alone; because he alone has developed s character end a genius of
      which no one else has furnished an example.
 
 
@@ -327,7 +666,7 @@ are specimens of some of the comments of the time:
      his army.  From the commencement of his career Bonaparte has
      developed an ardent character which is irritated by obstacles, and a
      quickness which forestalls every determination of the enemy.  It is
-     with heavier and heavier blows that he strikes.  He throws his army
+     with heavier and heavier blows that, he strikes.  He throws his army
      on the enemy like an unloosed torrent.  He is all action, and he is
      so in everything.  See him fight, negotiate, decree, punish, all is
      the matter of a moment.  He compromises with Turin as with Rome.  He
@@ -453,7 +792,7 @@ through the whole army:--
      You accuse Bonaparte, I see clearly, for having brought about peace.
      But I know you, and I speak in the name of eighty thousand soldiers.
      The time is gone when base advocates and wretched declaimers could
-     induce soldiers to revolt.  If, however, you compel them, the
+     induce soldiers to revolt.  If, however, yon compel them, the
      soldiers of the army of Italy will soon appear at the Barrier of
      Clichy, with their General.  But woe unto you if they do!
 
@@ -462,7 +801,7 @@ through the whole army:--
      Government sent three deputies to him, with a decree of the Great
      Council, without Bonaparte having solicited it and without his
      having thought of making any change in the Government of that
-     country: The governor of Venice was an old man, ninety-nine years of
+     country: The governor of Venice was an old man, ninety-nine years-of
      age, confined by illness to his apartment.  Everyone felt the
      necessity of renovating this Government of twelve hundred years'
      existence, and to simplify its machinery, in order to preserve its
@@ -473,7 +812,7 @@ through the whole army:--
 
      Bonaparte, after having received the deputation at Mestre, told them
      that in order to obtain satisfaction, for the assassination of his
-     brethren in arms, he wished the Great Council to arrest the
+     brethren is arms, he wished the Great Council to arrest the
      inquisitors.  He afterwards granted them an armistice, and appointed
      Milan as the place of conference.  The deputies arrived at Milan on
      the .  .  .  A negotiation commenced to re-establish harmony between
@@ -543,7 +882,7 @@ CHAPTER VII.
 
      Unfounded reports--Carnot--Capitulation of Mantua--General Clarke--
      The Directory yields to Bonaparte--Berthier--Arrival of Eugene
-     Beauharnais at Milan--Comte Delaunay d'Entraigues--His interview
+     Beauharnais at Milan--Comte Delannay d'Entraigues--His interview
      with Bonaparte--Seizure of his papers--Copy of one describing a
      conversation between him and Comte de Montgaillard--The Emperor
      Francis--The Prince de Conde and General Pichegru.
@@ -574,7 +913,7 @@ end of 1796, felt disposed to treat for peace, General Clarke, appointed
 to conclude the armistice, was authorised, in case Mantua should not be
 taken before the negotiation was brought to a close, to propose leaving
 the blockade in statu quo.  Had such a condition been adopted it would
-doubtless have been stipulated that the Emperor of Austria should be
+doubtless hays been stipulated that the Emperor of Austria should be
 allowed to provision the garrison and inhabitants of the city day by day.
 Bonaparte, convinced that an armistice without Mantua would by no means
 conduce to peace, earnestly opposed such a condition.  He carried his
@@ -606,11 +945,11 @@ affability, and refused with harshness.  His abrupt, egotistic, and
 careless manners did not, however, create him many enemies, but, at the
 same time, did not make him many friends.  In consequence of our frequent
 intercourse he had contracted the friendly practice of speaking to me in
-the second person singular; but he never wrote to me in that style.  He
+the second person singular; but he never wrote to me is that style.  He
 was perfectly acquainted with the disposition of all the corps, and could
 name their commanders and their respective forces.  Day or night he was
 always at hand and made out with clearness all the secondary orders which
-resulted from the dispositions of the General-in-Chief.  In fact, he was
+resulted from the dispositions of the General-in-Chief.  In fact, he was,
 an excellent head of the staff of an army; but that is all the praise
 that can be given, and indeed he wished for no greater.  He had such
 entire confidence in Bonaparte, and looked up to him with so much
@@ -622,7 +961,7 @@ despatches have unduly elevated his reputation.  Bonaparte, giving his
 opinion to the Directory respecting the generals employed in his army,
 said, "Berthier has talents, activity, courage, character--all in his
 favour."  This was in 1796.  He then made an eagle of him; at St. Helena
-he called him a goose.  He should neither have raised him so high nor
+he called him a goose.  He should neither have, raised him so high nor
 sunk him so low.
 
 Berthier neither merited the one nor the other.  Bonaparte was a man of
@@ -654,7 +993,7 @@ spoken of, and Fauche-Borel has, I believe, denied its authenticity and
 the truth of its contents.  The manner in which it fell into the hands of
 the General-in-Chief, the importance attached to it by d'Entraigues, the
 differences I have observed between the manuscript I copied and versions
-which I have since read, and the knowledge of its, authenticity, having
+which I have since read, and the, knowledge of its, authenticity, having
 myself transcribed it from the handwriting of the Count, who in my
 presence vouched for the truth of the facts it details--all these
 circumstances induce me to insert it here, and compel me to doubt that it
@@ -696,7 +1035,7 @@ second departure, and finally of his arrival at Bale in August 1795.]
      passing them, "I am going to Huningen."  Fauche contrived to throw
      himself in his way at the end of a corridor.  Pichegru observed him,
      and fixed his eyes upon him, and although it rained in torrents, he
-     said aloud, "I am going to dine at the chateau of Madame Salomon."
+     said aloud, "I am going to dine at the chateau of Madame ,Salomon."
      This chateau was three leagues from Huningen, and Madame Salomon was
      Pichegru's mistress.
 
@@ -714,8 +1053,8 @@ second departure, and finally of his arrival at Bale in August 1795.]
      He conducted Fauche alone into a retired cabinet, and said to
      him, "Explain yourself; what does Monseigneur le Prince de Conde
      wish to communicate to me?"  Fauche was embarrassed, and stammered
-     out something unintelligible.  "Compose yourself," said Pichegru;
-     "my sentiments are the same as the Prince de Conde's.  What does he
+     out something unintelligible.  "Compose yourself." said Pichegru;
+     "my sentiments are the same, as the Prince de Conde's.  What does he
      desire of me?"  Fauche, encouraged by these words, replied, "The
      Prince wishes to join you.  He counts on you, and wishes to connect
      himself with you."
@@ -749,9 +1088,9 @@ second departure, and finally of his arrival at Bale in August 1795.]
      would be granted to him, with half reversion to his wife, and 50,000
      livres to his heirs for ever, until the extinction of his family.
      Such were the offers, made in the name of the King, to General
-     Pichegru.  (Then followed the boons to be granted to the officers
+     Pichegru.  (Than followed the boons to be granted to the officers
      and soldiers, an amnesty to the people, etc).  I added that the
-     Prince de Conde desired that he would proclaim the King in the
+     Prince de Coude desired that he would proclaim the King in the
      camps, surrender the city of Huningen to him, and join him for the
      purpose of marching on Paris.
 
@@ -761,9 +1100,9 @@ second departure, and finally of his arrival at Bale in August 1795.]
      signature.  Is he the author?"--"Yes," replied Fauche.  "But," said
      Pichegru, "I must, before making any negotiation on my part, be
      assured that the Prince de Conde, with whose handwriting I am well
-     acquainted, approves of all that has been written in his name by M.
+     acquainted, approves of all that has been written is his name by M.
      de Montgaillard.  Return directly to M. de Montgaillard, and tell
-     him to communicate my answer to the Prince."
+     him to communicate my answer to the Prince.
 
      Fauche immediately departed, leaving M. Courant with Pichegru.  He
      arrived at Bale at nine o'clock in the evening.  I set off directly
@@ -882,7 +1221,7 @@ second departure, and finally of his arrival at Bale in August 1795.]
      could promise 100,000 crowns in louis, which he had at Bale, and
      1,400,000 livres, which he had in good bills payable at sight.
 
-     No argument or entreaty had any effect on the Prince de Conde.  The
+     No argument or entreaty had any effect on the Prince de Condo.  The
      idea of communicating his plan to Wurmser and sharing his glory with
      him rendered him blind and deaf to every consideration.  However, it
      was necessary to report to Pichegru the observations of the Prince
@@ -902,7 +1241,7 @@ nothing; everything is soon forgotten!"
 We were now in July, and the negotiations were carried on with a
 tardiness which showed that something was kept in reserve on both sides.
 Bonaparte at this time was anything but disposed to sign a peace, which
-he always hoped to be able to make at Vienna, after a campaign in
+be always hoped to be able to make at Vienna, after a campaign in
 Germany, seconded by the armies of the Rhine and the Sambre-et-Meuse.
 The minority of the Directory recommended peace on the basis of the
 preliminaries, but the majority wished for more honourable and
@@ -918,7 +1257,7 @@ option.  This letter was never sent to the Emperor, but was communicated
 as the draft of a proposed despatch to the Directory.  The Emperor
 Francis, however, wrote an autograph letter to the General-in-Chief of
 the army of Italy, which will be noticed when I come to the period of its
-reception. It is certain that Bonaparte at this time wished for war.  He
+reception: It is certain that Bonaparte at this time wished for war.  He
 was aware that the Cabinet of Vienna was playing with him, and that the
 Austrian Ministers expected some political convulsion in Paris, which
 they hoped would be favourable to the Bourbons.  He therefore asked for
@@ -989,7 +1328,7 @@ the judgments pronounced upon him by the German journals, and more
 particularly by the Spectator of the North, which he always made me
 translate.
 
-Bonaparte was touched to the quick by the comparison made between him and
+Bonaparte was touched to the quick by the comparison make between him and
 Moreau, and by the wish to represent him as foolhardy ("savants sous
 Moreau, fougueuse sous Buonaparte").  In the term of "brigands," applied
 to the generals who fought in La Vendee, he thought he recognized the
@@ -1023,7 +1362,7 @@ and render the chances of peace more favourable to Austria.  He still
 urgently recommended the arrest of the emigrants, the stopping of the
 presses of the royalist journals, which he said were sold to England and
 Austria, the suppression of the Clichy Club.  This club was held at the
-residence of Gerard Desodieres, in the Rue de Clichy.  Aubry was one of
+residence of Gerard Desodieres, in the Rue de Clichy.  Aubry, was one of
 its warmest partisans, and he was the avowed enemy of the revolutionary
 cause which Bonaparte advocated at this period.  Aubry's conduct at this
 time, together with the part he had taken in provoking Bonaparte's
@@ -1036,16 +1375,16 @@ perseverance in a system degrading to the national glory.
      --[The Directory merited those accusations.  The following sketches
      of two of their official sittings present a singular contrast:
 
-     "At the time that the Directory were first installed in the
+     At the time that the Directory were first installed in the
      Luxembourg (27th October 1795)."  says M. Baileul, "there was hardly
      a single article of furniture in it.  In a small room, round a
      little broken table, one of the legs of which had given way from
      age, on which table they had deposited a quire of letter-paper, and
      a writing desk 'a calamet', which luckily they had had the
-     precaution to bring with them from the Committee of Public Safety,
+     precaution to bring with them from the Committee of Public safety,
      seated on four rush-bottomed chairs, in front of some logs of wood
      ill-lighted, the whole borrowed from the porter Dupont; who would
-     believe that it was in this deplorable condition that the members
+     believe that it was in this deplorable condition that the member's
      of the new Government, after having examined all the difficulties,
      nay, let me add, all the horrors of their situation, resolved to
      confront all obstacles, and that they would either deliver France
@@ -1116,7 +1455,7 @@ name, with the view of securing to him a legal dispensation on the score
 of age.  He hoped, though he was but eight-and-twenty, to supersede one
 of the two Directors who were to go out of office.
 
-     --[The Directors had to be forty years of age before they could be
+     --[The Directors had to be forty years of ago before they could be
      appointed.]--
 
 His brothers and their friends made great exertions for the success of
@@ -1131,7 +1470,7 @@ lavish of their mutual assurances of friendship, while they cordially
 hated each other.  The Directory, however, appealed for the support of
 Bonaparte, which he granted; but his subsequent conduct clearly proves
 that the maintenance of the constitution of the year III. was a mere
-pretext.  He indeed defended it meanwhile, because, by aiding the triumph
+pretest.  He indeed defended it meanwhile, because, by aiding the triumph
 of the opposite party, he could not hope to preserve the influence which
 he exercised over the Directory.  I know well that, in case of the Clichy
 party gaining the ascendency, he was determined to cross the Alps with
@@ -1184,7 +1523,7 @@ pliant temper, and moderate opinions.  He was decidedly devoted to
 Bonaparte.  With his instructions he received a private cipher to enable
 him to correspond with the General-in-Chief.
 
-Augereau went after La Vallette, on the 27th of July.  Bonaparte
+Augereau went, after La Vallette, on the 27th of July.  Bonaparte
 officially wrote to the Directory that Augereau "had solicited leave to
 go to Paris on his own private business."
 
@@ -1251,7 +1590,7 @@ On the 24th Fructidor (10th September 1797) Augereau writes:
      the 18th.  He is also to deliver to you some despatches from the
      Directory, where much uneasiness is felt at not hearing from you.
      No less uneasiness is experienced on seeing in Paris one of your
-     'aides de camp',--(La Vallette)--whose conduct excites the
+     'aides de camp',-(La Vallette)- whose conduct excites the
      dissatisfaction and distrust of the patriots, towards whom he has
      behaved very ill.
 
@@ -1331,7 +1670,7 @@ CHAPTER IX.
 1797.
 
      Bonaparte's joy at the result of the 18th Fructidor.--His letter to
-     Augereau--His correspondence with the Directory and proposed
+     Augerean--His correspondence with the Directory and proposed
      resignation--Explanation of the Directory--Bottot--General Clarke--
      Letter from Madame Bacciocchi to Bonaparte--Autograph letter of the
      Emperor Francis to Bonaparte--Arrival of Count Cobentzel--Autograph
@@ -1406,7 +1745,7 @@ following terms:
      tranquillity.
 
      The state of my mind, likewise, requires me to mingle again in the
-     mass of citizens.  Great power has for a long time been confided to
+     mass of citizens.  Great power has for a longtime been confided to
      my hands.  I have employed it on all occasions for the advantage of
      my country; so much the worse for those who put no faith in virtue,
      and may have suspected mine.  My recompense is in my own conscience,
@@ -1448,8 +1787,8 @@ Bonaparte, wrote the following letter on the 30th Vendemiaire:
 The Directory had sent General Clarke
 
      --[H.  J.  G.  Clarke, afterwards Minister of War under Napoleon,
-     1807-1814, and under the Bourbons in 1816, when he was made a
-     Marshal of France.  He was created Duc de Feltre in 1819.]--
+     1807-1814, acid under the Bourbons in 1816, when he was made a
+     Marshal of France.  He was created Due de Feltre in 1819.]--
 
 to treat for peace, as second plenipotentiary.  Bonaparte has often told
 me he had no doubt from the time of his arrival that General Clarke was
@@ -1513,7 +1852,7 @@ be rather quick work.
      request.
 
      Will you send, for this purpose, your power of attorney to
-     Bacciocchi, or to whomsoever you think fit?  I shall expect with
+     Baciocchi, or to whomsoever you think fit?  I shall expect with
      impatience your assent.  Because we are poor let not that cause you
      to despise us; for, after all, you are our brother, mine are the
      only children that call you uncle, and we all love you more than we
@@ -1600,7 +1939,7 @@ the following autograph letter from the Emperor of Austria:
 In fact, it was only on the arrival of the Comte de Cobentzel that the
 negotiations were seriously set on foot.  Bonaparte had all along clearly
 perceived that Gallo and Meerweldt were not furnished with adequate
-powers.  He saw also clearly enough that if the month of September were
+powers.  He saw also clearly enough that if the month of September were,
 to be trifled away in unsatisfactory negotiations, as the month which
 preceded it had been, it would be difficult in October to strike a blow
 at the house of Austria on the side of Carinthia.  The Austrian Cabinet
@@ -1667,7 +2006,7 @@ not renounce Venice.  In that case it would be necessary to be ready on
 the Rhine for an advance in Germany, as the army of Italy, if it could
 make head against the Archduke Charles, was not sufficiently strong for
 any operations on a grand scale.  At this period the conclusion of peace
-was certainly very doubtful; it was even seriously considered in what
+was certainly very doubtful; it was even seriously considered in, what
 form the rupture should be notified.
 
 Towards the end of September Bottot, Barras' secretary, arrived at
@@ -1875,7 +2214,7 @@ triumphs, as is recorded in the celebrated distich of Mathias Corvinus:
           "Bella gerunt alli, to felix Austria nube;
           Nam quae Mars allis, dat tibi regna Venus."
 
-         ["Glad Austria wins by Hymen's silken chain
+         [Glad Austria wins by Hymen's silken chain
           What other States by doubtful battle gain,
           And while fierce Mars enriches meaner lands,
           Receives possession from fair Venus' hands."]
@@ -1915,7 +2254,7 @@ The presents customary on such occasions were given, and the Emperor of
 Austria also took that opportunity to present to General Bonaparte six
 magnificent white horses.
 
-Bonaparte returned to Milan by way of Gratz, Laybach, Triest, Mestre,
+Bonaparte returned to Milan by way of Gratz, Laybach, Thrust, Mestre,
 Verona, and Mantua.
 
 At this period Napoleon was still swayed by the impulse of the age.  He
@@ -1926,7 +2265,7 @@ in fact do give, weight to this account of his opinion.  But there is no
 doubt that this idea was more connected with lofty views of ambition than
 a sincere desire for the benefit of the human race; for, at a later
 period, he adopted this phrase: "I should like to be the head of the most
-ancient of the dynasties of Europe."  What a difference between
+ancient of the dynasties cf Europe."  What a difference between
 Bonaparte, the author of the 'Souper de Beaucaire', the subduer of
 royalism at Toulon; the author of the remonstrance to Albitte and
 Salicetti, the fortunate conqueror of the 13th Vendemiaire, the
@@ -1994,7 +2333,7 @@ fought and places taken, and presented, in the following inscriptions, a
 simple but striking abridgment of the history of the Italian campaign.
 
      150,000 PRISONERS; 170 STANDARDS; 550 PIECES OF SIEGE ARTILLERY;
-     600 PIECES OF FIELD ARTILLERY; FIVE PONTOON EQUIPAGES; NINE 64-GUN
+     6OO PIECES OF FIELD ARTILLERY; FIVE PONTOON EQUIPAGES; NINE 64-GUN
      SHIPS; TWELVE 32-GUN FRIGATES; 12 CORVETTES; 18 GALLEYS; ARMISTICE
      WITH THE KING OF SARDINIA; CONVENTION WITH GENOA; ARMISTICE WITH THE
      DUKE OF PARMA; ARMISTICE WITH THE KING OF NAPLES; ARMISTICE WITH THE
@@ -2008,7 +2347,7 @@ simple but striking abridgment of the history of the Italian campaign.
      THE IMPERIAL FIEFS, THE PEOPLE OF THE DEPARTMENTS OF CORCYRA, OF THE
      AEGEAN SEA, AND OF ITHACA.
 
-     SENT TO PARIS ALL THE MASTERPIECES OF MICHAEL ANGELO, OF GUERCINO,
+     SENT TO PARIS ALL THE MASTERPIECES OF MICHAEL ANGELO, OF GVERCINO,
      OF TITIAN, OF PAUL VERONESE, OF CORREGGIO, OF ALBANA, OF THE
      CARRACCI, OF RAPHAEL, AND OF LEONARDO DA VINCI.
 
@@ -2017,7 +2356,7 @@ Thus were recapitulated on a flag, destined to decorate the Hall of the
 Public Sittings of the Directory, the military deeds of the campaign in
 Italy, its political results, and the conquest of the monuments of art.
 
-Most of the Italian cities looked upon their conqueror as a liberator--
+Most of the Italian cities looked upon their conqueror as a liberator-
 such was the magic of the word liberty, which resounded from the Alps to
 the Apennines.  On his way to Mantua the General took up his residence in
 the palace of the ancient dukes.  Bonaparte promised the authorities of
@@ -2046,7 +2385,7 @@ intelligence in his countenance, along with which may be marked an air of
 habitual meditation, which reveals nothing of what is passing within.
 In that thinking head, in that bold mind, it is impossible not to believe
 that some daring designs are engendering which will have their influence
-on the destinies of Europe."
+an the destinies of Europe."
 
 From the last phrase, in particular, of this letter, one might suspect
 that it was written after Bonaparte had made his name feared throughout
@@ -2060,7 +2399,7 @@ Duke of Burgundy, daring like himself, fell with his powerful army under
 the effects of Helvetian valour.  Bonaparte slept during the night at
 Maudon, where, as in every place through which he passed, the greatest
 honours were paid him.  In the morning, his carriage having broken down,
-we continued our journey on foot, accompanied only by some officers and
+we continued our journey an foot, accompanied only by some officers and
 an escort of dragoons of the country.  Bonaparte stopped near the
 Ossuary, and desired to be shown the spot where the battle of Morat was
 fought.  A plain in front of the chapel was pointed out to him.  An
@@ -2079,12 +2418,12 @@ presence served to calm more than one inquietude.  He proceeded on his
 journey to Rastadt by Aix in Savoy, Berne, and Bale.  On arriving at
 Berne during night we passed through a double file of well-lighted
 equipages, filled with beautiful women, all of whom raised the cry of
-"Long live, Bonaparte!--long live the Pacificator!"  "To have a proper
+"Long live, Bonaparte!--long live the Pacificator!  "To have a proper
 idea of this genuine enthusiasm it is necessary to have seen it.
 
 The position in society to which his services had raised him rendered it
 unfit to address him in the second person singular and the familiar
-manner sometimes used by his old schoolfellows of Brienne.  I thought
+manner sometimes used by his old schoolfellows of Brienne.  I thought,
 this very natural.
 
 M. de Cominges, one of those who went with him to the military school at
@@ -2094,7 +2433,7 @@ complete disregard of the respect due to a man who had rendered himself
 so illustrious.  General Bonaparte, offended at this behaviour, refused
 to receive him again, and expressed himself to me with much warmth on the
 occasion of this visit.  All my efforts to remove his displeasure were
-unavailing; this impression always continued, and he never did for M. de
+unavailing this impression always continued, and he never did for M. de
 Cominges what his means and the old ties of boyhood might well have
 warranted.
 
@@ -2133,7 +2472,7 @@ The silly pretext of difficulties by which my erasure, notwithstanding
 the reiterated solicitations of the victorious General, was so long
 delayed made me apprehensive of a renewal, under a weak and jealous
 pentarchy, of the horrible scenes of 1796.  Bonaparte said to me, in
-a tone of indignation, "Come, pass the Rhine; they will not dare to seize
+atone of indignation, "Come, pass the Rhine; they will not dare to seize
 you while near me.  I answer for your safety."  On reaching Paris I found
 that my erasure had taken place.  It was at this period only that General
 Bonaparte's applications in my favour were tardily crowned with success.
@@ -2151,7 +2490,7 @@ his possession something more than 3,000,000.
 
      --[Joseph says that Napoleon, when he exiled for Egypt, left with
      him all his fortune, and that it was much nearer 300,000 francs than
-     3,000,000.  (See Erreurs, tome i.  pp. 243, 259)]--
+     3,000,000.  (See Erreurs, tome i.  pp. 243, 259]--
 
 How could he with 300,000 francs have been able to provide for the
 extensive repairs, the embellishment, and the furnishing of his house in
@@ -2167,7 +2506,7 @@ peculation.  He was an inflexible administrator.  He was always irritated
 at the discovery of fraud, and pursued those guilty of it with all the
 vigour of his character.  He wished to be independent, which he well knew
 that no one could be without fortune.  He has often said to me, "I am no
-Capuchin, not I".  But after having been allowed only 300,000 francs on
+Capuchin, not I"  But after having been allowed only 300,000 francs on
 his arrival from the rich Italy, where fortune never abandoned him, it
 has been printed that he had 20,000,000 (some have even doubled the
 amount) on his return from Egypt, which is a very poor country, where
@@ -2190,7 +2529,7 @@ subject.  Bonaparte wished to give his stepdaughter to Duroc, and his
 brothers were eager to promote the marriage, because they wished to
 separate Josephine from Hortense, for whom Bonaparte felt the tenderest
 affection.  Josephine, on the other hand, wished Hortense to marry Louis
-Bonaparte.  Her motives, as may easily be divined, were to gain support
+Bonaparte.  Her motives, as may easily be divined, were to, gain support
 in a family where she experienced nothing but enmity, and she carried her
 point.
 
@@ -2198,7 +2537,7 @@ point.
      attachment for Duroc, who was at that time a handsome man about
      thirty, and a great favourite of Bonaparte.  However, the
      indifference with which Duroc regarded the marriage of Louis
-     Bonaparte sufficiently proves that the regard with which he had
+     Bonaparte sufficiently proves that the regard with which be had
      inspired Hortense was not very ardently returned.  It is certain
      that Duroc might have become the husband of Mademoiselle de
      Beauharnais had he been willing to accede to the conditions on which
@@ -2222,7 +2561,7 @@ point.
 
 On his arrival from Rastadt the most magnificent preparations were made
 at the Luxembourg for the reception of Bonaparte.  The grand court of the
-Palace was elegantly ornamented; and at its farther end, close to the
+Palace was elegantly ornamented; and at its farther end, close to tho
 Palace, a large amphitheatre was erected for the accommodation of
 official persons.  Curiosity, as on all like occasions, attracted
 multitudes, and the court was filled.  Opposite to the principal
@@ -2322,7 +2661,7 @@ come."
 During Bonaparte's stay at Paris a woman sent a messenger to warn him
 that his life would be attempted, and that poison was to be employed for
 that purpose.  Bonaparte had the bearer of this information arrested,
-who went, accompanied by the judge of the peace, to the woman's house,
+who: went, accompanied by the judge of the peace, to the woman's house,
 where she was found extended on the floor, and bathed in her blood.  The
 men whose plot she had overheard, having discovered that she had revealed
 their secret, murdered her.  The poor woman was dreadfully mangled: her
@@ -2348,7 +2687,7 @@ fast to see me if I were going to the scaffold."
 
      --[A similar remark made to William III. on his lending at Brixham
      elicited the comment, "Like the Jews, who cried one day 'Hosanna!'
-     and the next 'Crucify Him! crucify Him!'"]--
+     and the next "Crucify Him! crucify Him!"]--
 
 On the 28th of December Bonaparte was named a member of the Institute, in
 the class of the Sciences and arts.
@@ -2388,7 +2727,7 @@ to make a tour along the coast, to ascertain by my own observation what
 may be attempted.  I will take you, Lannes, and Sulkowsky, with me.  If
 the success of a descent on England appear doubtful, as I suspect it
 will, the army of England shall become the army of the East, and I will
-go to Egypt."
+go to Egypt.
 
 This and other conversations give a correct insight into his character.
 He always considered war and conquest as the most noble and inexhaustible
@@ -2574,7 +2913,7 @@ in his Cabinet.
 In the position in which France stood with respect to Europe, after the
 treaty of Campo-Formio, the Directory, far from pressing or even
 facilitating this expedition, ought to have opposed it.  A victory on the
-Adige would have been far better for France than one on the Nile.  From
+Adige would have been far better far France than one on the Nile.  From
 all I saw, I am of opinion that the wish to get rid of an ambitious and
 rising man, whose popularity excited envy, triumphed over the evident
 danger of removing, for an indefinite period, an excellent army, and the
@@ -2587,7 +2926,7 @@ On the 12th of April 1798 he was appointed General-in-Chief of the army
 of the East.
 
 It was about this time that Marmont was married to Mademoiselle
-Perregaux; and Bonaparte's aide de camp, La Vallette, to Mademoiselle
+Perregaux; and Bonaparte's aide de camp, La Valletta, to Mademoiselle
 Beauharnais.
 
      --[Sir Walter Scott informs us that Josephine, when she became
@@ -2610,15 +2949,15 @@ writing, and is as follows:
 
                               CAMP LIBRARY.
 
-1. ARTS AND SCIENCE.--Fontenelle's Worlds, 1 vol.   Letters to a German
+1. ARTS AND SCIENCE.-- Fontenelle's Worlds, 1 vol.   Letters to a German
 Princess, 2 vols.   Courses of the Normal School, 6 vols.   The Artillery
 Assistant, 1 vol.   Treatise on Fortifications, 3 vols.   Treatise on
 Fireworks, 1 vol.
 
-2. GEOGRAPHY AND TRAVELS.--Barclay's Geography, 12 vols.   Cook's
+2. GEOGRAPHY AND TRAVELS.-- Barclay's Geography, 12 vols.   Cook's
 Voyages, 3 vols.   La Harpe's Travels, 24 vols.
 
-3. HISTORY.--Plutarch, 12 vols.   Turenne, 2 vols.   Conde, 4 vols.
+3. HISTORY.-- Plutarch, 12 vols.   Turenne, 2 vols.   Conde, 4 vols.
 Villars, 4 vols.   Luxembourg, 2 vols.   Duguesclin, 2 vols.
 Saxe, 3 vols.   Memoirs of the Marshals of France, 20 vols.  President
 Hainault, 4 vols.   Chronology, 2 vols.   Marlborough, 4 vols.  Prince
@@ -2629,16 +2968,16 @@ Justin, 2 vols.  Arrian, 3 vols.   Tacitus, 2 vols.   Titus Livy,
 Thucydides, 2 vols.  Vertot, 4 vols.  Denina, 8 vols.
 Frederick II, 8 vols.
 
-4. POETRY.--Ossaian, 1 vol.   Tasso, 6 vols.   Ariosto, 6 vols.
+4. POETRY.-- Osaian, 1 vol.   Tasso, 6 vols.   Ariosto, 6 vols.
 Homer, 6 vols.   Virgil, 4 vols.   The Henriade, 1 vol.
 Telemachus, 2 vols.  Les Jardin, 1 vol.   The Chefs-d'Oeuvre of the
 French Theatre, 20 vols.  Select Light Poetry, 10 vols.  La Fontaine.
 
-5. ROMANCE.--Voltaire, 4 vols.  Heloise, 4 vols.  Werther, 1 vol.
+5. ROMANCE.-- Voltaire, 4 vols.  Heloise, 4 vols.  Werther, 1 vol.
 Marmontel, 4 vols.  English Novels, 40 vols.  Le Sage, 10 vols.
 Prevost, 10 vols.
 
-6. POLITICS AND MORALS.--The Old Testament.  The New Testament.  The
+6. POLITICS AND MORALS.-- The Old Testament.  The New Testament.  The
 Koran.  The Vedan.  Mythology.  Montesquieu.  The Esprit des Lois.
 
 
@@ -2663,7 +3002,7 @@ well racked off, and in casks hermetically sealed, does not lose its
 quality on a sea voyage.  Several cases of this Burgundy twice crossed
 the desert of the Isthmus of Suez on camels' backs.  We brought some of
 it back with us to Frejus, and it was as good as when we departed.  James
-went with us to Egypt.
+went with us to Egypt
 
 During the remainder of our stay in Paris nothing occurred worthy of
 mention, with the exception of a conversation between Bonaparte and me
@@ -2704,9 +3043,9 @@ and Sicily if he had arrived there before us.'
      command of an expedition so doubtful and hazardous, and that for
      this purpose he endeavoured to take advantage of what had occurred
      at Vienna.  This must be ranked in the class of inventions, together
-     with Barras' mysterious visit to communicate the change of
+     with Barras mysterious visit to communicate the change of
      destination, and also the ostracism and honourable exile which the
-     Directory wished to impose on Bonaparte.--Bourrienne.]--
+     Directory wished to impose on Bonaparte. --Bourrienne.]--
 
 It is untrue that he ever entertained the idea of abandoning the
 expedition in consequence of Bernadotte's affair.  The following letter
@@ -2822,9 +3161,9 @@ CHAPTER XIII.
      Barguay d'Hilliers--Attack on the western part of the island--
      Caffarelli's remark--Deliverance of the Turkish prisoners--Nelson's
      pursuit of the French fleet--Conversations on board--How Bonaparte
-     passed his time--Questions to the Captains--Propositions discussed
+     passed his, time--Questions to the Captains--Propositions discussed
      --Morning music--Proclamation--Admiral Brueys--The English fleet
-     avoided--Dangerous landing--Bonaparte and his fortune--Alexandria
+     avoided  Dangerous landing--Bonaparte and his fortune--Alexandria
      taken--Kleber wounded--Bonaparte's entrance into Alexandria.
 
 The squadron sailed on the 19th of May.  The Orient, which, owing to her
@@ -2873,13 +3212,13 @@ It is not the less true, however, that I wrote, by his dictation, a mass
 of instructions for private intrigues.  Napoleon also said to another
 noble companion of his exile at St Helena, "Malta certainly possessed
 vast physical means of resistance; but no moral means.  The knights did
-nothing dishonourable; nobody is obliged to do impossibilities.  No; but
+nothing dishonourable nobody is obliged to do impossibilities.  No; but
 they were sold; the capture of Malta was assured before we left Toulon."
 
 The General-in-Chief proceeded to that part of the port where the Turks
 made prisoners by the knights were kept.
 
-The disgusting galleys were emptied of their occupants. The same
+The disgusting galleys were emptied of their occupants: The same
 principles which, a few days after, formed the basis of Bonaparte's
 proclamation to the Egyptians, guided him in this act of reason and
 humanity.
@@ -2970,7 +3309,7 @@ dinner, to fix upon three or four persons to support a proposition and as
 many to oppose it.  He had an object in view by this.  These discussions
 afforded him an opportunity of studying the minds of those whom he had an
 interest in knowing well, in order that he might afterwards confide to
-each the functions for which he possessed the greatest aptitude. It will
+each the functions for which he possessed the greatest aptitude: It will
 not appear singular to those who have been intimate with Bonaparte, that
 in these intellectual contests he gave the preference to those who had
 supported an absurd proposition with ability over those who had
@@ -3042,8 +3381,8 @@ manner Bonaparte employed his time on board the Orient during the voyage,
 and it was also at this time that he dictated to me the following
 proclamation:
 
-                              HEADQUARTERS ON BOARD THE "ORIENT,"
-                                   The 4th Messidor, Year VI.
+                              HEADQUARTERS ON BOARD THE " ORIENT,"
+                                   the 4th Messidor, year VI.
 
      BONAPARTE, MEMBER OF THE NATIONAL INSTITUTE,
      GENERAL-IN-CHIEF.
@@ -3052,7 +3391,7 @@ proclamation:
      on civilisation and commerce are incalculable.  The blow you are
      about to give to England will be the best aimed, and the most
      sensibly felt, she can receive until the time arrive when you can
-     give her her death-blow.
+     give her her deathblow.
 
      We must make some fatiguing marches; we must fight several battles;
      we shall succeed in all we undertake.  The destinies are with us.
@@ -3232,7 +3571,7 @@ but a little brackish water of the most disgusting description.
      This was the best way to use the grain; but, after all, it was not
      bread.  The apprehensions of the soldiers increased daily, and rose
      to such a pitch that a great number of them said there was no great
-     city of Cairo; and that the place bearing that name was, like
+     city of calm; and that the place bring that name was, like
      Damanhour, a vast assemblage of mere huts, destitute of everything
      that could render life comfortable or agreeable.  To such a
      melancholy state of mind had they brought themselves that two
@@ -3255,7 +3594,7 @@ but a little brackish water of the most disgusting description.
      Chief.'  Many of them, having observed that wherever there were
      vestiges of antiquity they were carefully searched, vented their
      spite in invective against the savants, or scientific men, who, they
-     said, had started the idea of the expedition to order to make these
+     said, had started the idea of she expedition to order to make these
      searches.  Jests were showered upon them, even in their presence.
      The men called an ass a savant; and said of Caffarelli Dufalga,
      alluding to his wooden leg, 'He laughs at all these troubles; he has
@@ -3308,7 +3647,7 @@ On the first night a mistake occurred which might have proved fatal.
 We were advancing in the dark, under feeble escort, almost sleeping on
 our horses, when suddenly we were assailed by two successive discharges
 of musketry.  We aroused ourselves and reconnoitred, and to our great
-satisfaction discovered that the only mischief was a slight wound
+satisfaction discovered that the only mischief was a alight wound
 received by one of our guides.  Our assailants were the division of
 General Desaix, who, forming the advanced guard of the army, mistook us
 for a party of the enemy, and fired upon us.  It was speedily ascertained
@@ -3321,7 +3660,7 @@ outside, but the interior was inconceivably wretched.  Every domestic
 utensil was broken, and the only seats were a few dirty tattered mats.
 Bonaparte knew that the sheik was rich, and having somewhat won his
 confidence, he asked him, through the medium of the interpreter, why,
-being in easy circumstances, he thus deprived himself of all comfort.
+being in easy circumstances, be thus deprived himself of all comfort.
 "Some years ago," replied the sheik, "I repaired and furnished my house.
 When this became known at Cairo a demand was made upon me for money,
 because it was said my expenses proved me to be rich.  I refused to pay
@@ -3373,7 +3712,7 @@ On the night of the 14th of July the General-in-Chief directed his march
 towards the south, along the left bank of the Nile.  The flotilla sailed
 up the river parallel with the left wing of the army.  But the force of
 the wind, which at this season blows regularly from the Mediterranean
-into the valley of the Nile, carried the flotilla far in advance of the
+into the valley of the file, carried the flotilla far in advance of the
 army, and frustrated the plan of their mutually defending and supporting
 each other.  The flotilla thus unprotected fell in with seven Turkish
 gunboats coming from Cairo, and was exposed simultaneously to their fire
@@ -3421,7 +3760,7 @@ with provisions; but this is incorrect.
 
 We had no communication with the army until the 23d of July.  On the 22d
 we came in sight of the Pyramids, and were informed that we were only
-about ten leagues from Gizeh, where they are situated.  The cannonade
+about, ten leagues from Gizeh, where they are situated.  The cannonade
 which we heard, and which augmented in proportion as the north wind
 diminished, announced a serious engagement; and that same day we saw the
 banks of the Nile strewed with heaps of bodies, which the waves were
@@ -3457,7 +3796,7 @@ and that the enemy's loss was 2000 men killed and wounded, 40 guns, and a
 great number of horses.
 
 The occupation of Cairo was the immediate consequence of the victory of
-Embabeh.  Bonaparte established his headquarters in the home of Elfy
+Embabeh.  Bonaparte established his head-quarters in the home of Elfy
 Bey, in the great square of Ezbekye'h.
 
 The march of the French army to Cairo was attended by an uninterrupted
@@ -3508,14 +3847,14 @@ it to me before he sent it off.
      list:
 
      1st, a company of actors; 2d, a company of dancers; 3d, some dealers
-     in marionettes, at least three or four; 4th, a hundred French women;
+     in marionettes, at least three or four; 9th, a hundred French women;
      5th, the wives of all the men employed in the corps; 6th, twenty
      surgeons, thirty apothecaries, and ten Physicians; 7th, some
      founders; 8th, some distillers and dealers in liquor; 9th fifty
      gardeners with their families, and the seeds of every kind of
      vegetable; 10th, each party to bring with them: 200,000 pints of
      brandy; 11th, 30,000 ells of blue and scarlet cloth; 12th, a supply
-     of soap and oil.--Bourrienne.]--
+     of soap and oil.  --Bourrienne.]--
 
                                         (Signed) BONAPARTE
 
@@ -3532,369 +3871,6 @@ quoted, was written long before the destruction of the fleet.
 
 
 
+End of this Project Gutenberg Etext of The Memoirs of Napoleon, V2, 1798
+by Louis Antoine Fauvelet de Bourrienne
 
-
-
-
-End of the Project Gutenberg EBook of Memoirs of Napoleon Bonaparte, v2, by
-Louis Antoine Fauvelet de Bourrienne
-
-*** END OF THIS PROJECT GUTENBERG EBOOK MEMOIRS OF NAPOLEON BONAPARTE, V2 ***
-
-***** This file should be named 3552.txt or 3552.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/3/5/5/3552/
-
-Produced by David Widger
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
